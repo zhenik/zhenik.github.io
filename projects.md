@@ -30,6 +30,7 @@ permalink: /projects/
 ### Media
 * [How to - confluent schema registry](https://blog.sysco.no/kafka/ConfluentKafkaSchemaRegistryPart1/)
 * [Automatic tests for webservice with RestAssured, WireMock and Testcontainers libraries](http://blog.sysco.no/automatic/tests/web-service-testing/)
+* [Testing Kafka based applications](https://medium.com/test-kafka-based-applications/https-medium-com-testing-kafka-based-applications-85d8951cec43)
 
 ### Video projects
 * [Island trip]({{ site.baseurl }}/projects/video/island-trip)
