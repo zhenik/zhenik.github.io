@@ -3,6 +3,9 @@ layout: projects
 title: Projects
 permalink: /projects/
 ---
+### Projects
+* [Kafka-client-collector](https://github.com/sysco-middleware/kafka-client-collector)
+
 ### Contributions
 * [Akka/alpakka]({{ site.baseurl }}/projects/contributions/akka-alpakka)
 * [Testcontainers-java]({{ site.baseurl }}/projects/contributions/testcontainers-java)
@@ -10,6 +13,9 @@ permalink: /projects/
 * [Kafka-steward]({{ site.baseurl }}/projects/contributions/kafka-steward)
 * [Amqp-helper]({{ site.baseurl }}/projects/contributions/amqp-helper)
 * [Docker nginx consul]({{ site.baseurl }}/projects/contributions/docker-nginx-consul)
+
+### Public speaker
+* [Norsk Tipping Kafka Journey](https://www.meetup.com/Oslo-Kafka/events/264216098/)
 
 ### Study projects
 * [Bachelor thesis]({{ site.baseurl }}/projects/study/bachelor-thesis)
