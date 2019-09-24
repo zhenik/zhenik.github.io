@@ -56,6 +56,7 @@ Bachelor degree: economics.
 ----
 ## Certifications
 * [Confluent Certified Developer for Apache Kafka](https://www.credential.net/up0vmruc)
+* [Confluent Certified Operator for Apache Kafka](https://www.credential.net/qd9xctba)
 * [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-11-05&ci=AWS00662591)
 
 ----
