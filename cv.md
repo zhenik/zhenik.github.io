@@ -9,7 +9,16 @@ permalink: /cv/
 
 ----
 ## Work experience
-### [(06.2017 - current) - Sysco AS - Consultant](https://sysco.no/)  
+### [(05.2020 - current) - Knowit - Consultant](https://www.knowit.no/)
+
+**Projects:**
+* [Skatteetaten](https://www.skatteetaten.no/) 
+```
+Building the future of infrsutructure for the Norwegian Tax Department.  
+Tech stack: HashiCorp, Terraform, VSphere, Nomad, Consul, Ansible 
+```
+
+### [(06.2017 - 05.2020) - Sysco AS - Consultant](https://sysco.no/)  
 
 **Projects:**
 * [Norsk-Tipping](https://www.norsk-tipping.no/) 
