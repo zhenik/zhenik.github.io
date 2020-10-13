@@ -13,9 +13,18 @@ permalink: /projects/
 * [Kafka-steward]({{ site.baseurl }}/projects/contributions/kafka-steward)
 * [Amqp-helper]({{ site.baseurl }}/projects/contributions/amqp-helper)
 * [Docker nginx consul]({{ site.baseurl }}/projects/contributions/docker-nginx-consul)
+* [vagrant-hashistack]({{ site.baseurl }}/projects/contributions/vagrant-hashistack)
+* [vagrant-hashistack-template]({{ site.baseurl }}/projects/contributions/vagrant-hashistack-template)
+* [terraform-nomad-postgres](https://github.com/fredrikhgrelland/terraform-nomad-postgres)
+* [terraform-nomad-minio](https://github.com/fredrikhgrelland/terraform-nomad-minio)
+* [terraform-nomad-hive](https://github.com/fredrikhgrelland/terraform-nomad-hive)
+* [terraform-nomad-presto](https://github.com/fredrikhgrelland/terraform-nomad-presto)
 
 ### Public speaker
 * [Norsk Tipping Kafka Journey](https://www.meetup.com/Oslo-Kafka/events/264216098/)
+
+### Hobby projects
+* [PoC Gamification of routine work - helping friends with Master thesis]({{ site.baseurl }}/projects/hobby/gamefication-thesis)
 
 ### Study projects
 * [Bachelor thesis]({{ site.baseurl }}/projects/study/bachelor-thesis)
