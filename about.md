@@ -10,7 +10,11 @@ And `YES` - I love riddles and logic puzzles. I am happy to share my thoughts he
 I had an experience in topics like data streaming, clouds & integrations.
 Lately, I work as a DevOps engineer in the Norwegian Tax Department. 
 
-Some buzzwords which describe my work: terraform, nomad, consul, vault, docker, ansible, CD/CI. 
+Buzzwords which describe my experience in general:
+`[Java, Streaming, Kafka, Docker, Terraform, AWS, Angular, Backend dev, DevOps, Frontend dev]`
+
+Buzzwords which best describe my work today: 
+`[Vagrant, Ansible, Packer, Consul, Nomad, Vault, Docker, Terraform, Hive, Presto, MinIO, CD/CI]` 
 
 ### Contact me
 [nikita.zhevnitskiy@gmail.com](mailto:nikita.zhevnitskiy@gmail.com)
