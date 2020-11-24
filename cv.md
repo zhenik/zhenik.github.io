@@ -64,6 +64,7 @@ Bachelor degree: economics.
 
 ----
 ## Certifications
+* [HashiCorp Certified: Terraform Associate](https://www.youracclaim.com/badges/fa214e96-435c-424b-8edc-db220dccb570)
 * [Confluent Certified Developer for Apache Kafka](https://www.credential.net/up0vmruc)
 * [Confluent Certified Operator for Apache Kafka](https://www.credential.net/qd9xctba)
 * [AWS Certified Solutions Architect - Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-11-05&ci=AWS00662591)
